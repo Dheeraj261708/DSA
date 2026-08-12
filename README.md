@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/1Devastra/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/1Devastra/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/1Devastra/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/1Devastra/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/1Devastra/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/1Devastra/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/1Devastra/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/1Devastra/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/1Devastra/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/1Devastra/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/1Devastra/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/1Devastra/DSA/tree/master/0125-valid-palindrome) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/1Devastra/DSA/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/1Devastra/DSA/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/1Devastra/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/1Devastra/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/1Devastra/DSA/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/1Devastra/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/1Devastra/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Recursion
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/1Devastra/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/1Devastra/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1Devastra/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/1Devastra/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1Devastra/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
