@@ -1,27 +1,19 @@
 class Solution(object):
-
-  def trap(self, height):
-    """
-    :type height: List[int]
-    :rtype: int
-    """
-    if not height:
-      return 0
-
-    n = len(height)
-    water = 0
-    leftmax = [0] * n
-    rightmax = [0] * n
-
-    leftmax[0] = height[0]
-    for i in range(1, n):
-      leftmax[i] = max(leftmax[i - 1], height[i])
-
-    rightmax[n - 1] = height[n - 1]
-    for i in range(n - 2, -1, -1):
-      rightmax[i] = max(rightmax[i + 1], height[i])
-
-    for i in range(n):
-      water += min(leftmax[i], rightmax[i]) - height[i]
-
-    return water
+    def trap(self, height):
+        """
+        :type height: List[int]
+        :rtype: int
+        """
+        stack=[]
+        water=0
+        for i in range(len(height)):
+            while stack and height[i]>height[stack[-1]]:
+                x=stack.pop()
+                if not stack:
+                    break
+                d=i-stack[-1]-1
+                min_height=min(height[i],height[stack[-1]])
+                water=water+d*(min_height-height[x])
+            stack.append(i)
+        return water
+        
